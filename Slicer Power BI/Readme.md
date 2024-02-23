@@ -9,6 +9,5 @@ Basic- From tile slicer to button slicer.
 [**Interactive Link**](https://app.powerbi.com/view?r=eyJrIjoiYzVmYjQxNzMtYmJlYi00ZmIxLWIxY2QtMDFhMWYzMmZiZDgzIiwidCI6ImFlYmMzMTg4LWU3MzYtNGRlYi05MzJiLWRjNDU5OGMwNDQ3ZCIsImMiOjN9)
 <br/>
 
-![Slicer Button](https://github.com/eshaajar/Power-BI-DataViz-Mini/assets/150637830/1a638557-d9c2-4b32-b6c3-911a70fa8a7a)
 
-
+![Slicer Button](https://github.com/eshaajar/Power-BI-DataViz-Mini/assets/150637830/e1d32f97-f8aa-49a5-a1e9-affe2dc87416)
